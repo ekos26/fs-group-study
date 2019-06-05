@@ -14,6 +14,7 @@ As you work on a solution and save changes to `index.js`, jest will watch for th
 
 If you want to work on other problems, replace `check-palindrome` with any other folder name.
 
-1. `jest reverse-int/test.js --watch` 
-2. `jest reverse-string/test.js --watch` 
-3. `jest array-chunking/test.js --watch` 
+#### Examples
+* `jest reverse-int/test.js --watch` 
+* `jest reverse-string/test.js --watch` 
+* `jest array-chunking/test.js --watch` 
