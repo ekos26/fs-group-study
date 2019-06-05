@@ -12,9 +12,10 @@ This will watch for any changes in the `index.js` file in the folder `check-pali
 
 As you work on a solution and save changes to `index.js`, jest will watch for these changes and output whether you are passing or failing the included tests.
 
-If you want to work on other problems, replace `check-palindrome` with any other folder name.
+#### Working on Other Problems
 
-#### Examples
+If you want to work on other problems, point `jest` to the proper folder name.
+
 * `jest reverse-int/test.js --watch` 
 * `jest reverse-string/test.js --watch` 
 * `jest array-chunking/test.js --watch` 
