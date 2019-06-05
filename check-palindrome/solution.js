@@ -17,15 +17,13 @@
 // }
 
 function palindrome(str) {
-    const arr = [...str];
-
-    for (let i = 0, j = arr.length -1; i <= j; i++, j--) {
-        if (arr[i] !== arr[j]) {
-            return false;
-        }
+  for (let i = 0, j = str.length -1; i <= j; i++, j--) {
+    if (str[i] !== str[j]) {
+        return false;
     }
-    
-    return true;
+  }
+  
+  return true;
 }
 
 module.exports = palindrome;
