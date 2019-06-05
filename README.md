@@ -1,6 +1,6 @@
 # fs-group-study
 
-### Install dependencies for testing
+### Install Dependencies
 
 Run `npm install`. This should install the dependency `jest`, a npm package used for testing.
 
