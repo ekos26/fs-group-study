@@ -1,5 +1,5 @@
 # fs-group-study
 
-### Install Jest
+### Install dependencies for testing
 
-npm install -g jest
+`npm install`
